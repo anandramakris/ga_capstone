@@ -12,7 +12,7 @@ In addition, I have used other resources to help with the coding, which are link
 
 ### Repository Layout
 
-The code folder is broken up into five parts:
+The **code** folder is broken up into five parts:
 
 1. Cleaning & EDA
 2. Word Modeling (using Natural Language Processing to figure out the effect of each word)
@@ -20,7 +20,7 @@ The code folder is broken up into five parts:
 4. Character Modeling (finding the effect of each character in the dataset on typing times)
 5. Final Modeling (creating a final model for predictions)
 
-The data folder contains the three original datasets as .txt files (GAY-SENTENCES, GUN-SENTENCES, and REVIEW-SENTENCES). In addition, it also includes the results of code notebooks 1-4 above (respectively, they are data_cleaned, data_with_words, data_with_sentiment, and data_with_letters).
+The **data** folder contains the three original datasets as .txt files (GAY-SENTENCES, GUN-SENTENCES, and REVIEW-SENTENCES). In addition, it also includes the results of code notebooks 1-4 above (respectively, they are data_cleaned, data_with_words, data_with_sentiment, and data_with_letters).
 
 ### Libraries
 
