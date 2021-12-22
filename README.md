@@ -14,11 +14,11 @@ In addition, I have used other resources to help with the coding, which are link
 
 The code folder is broken up into five parts:
 
-1. [Cleaning & EDA](../code/1. Cleaning & EDA.ipynb)
-2. [Word Modeling](../code/2. Word Modeling.ipynb) (using Natural Language Processing to figure out the effect of each word)
-3. [Attribute Modeling](../code/3. Attribute Modeling.ipynb) (examining length, topic, sentiment, and the number of function keys such as shift and backspace)
-4. [Character Modeling](../code/4. Attribute Modeling.ipynb) (finding the effect of each character in the dataset on typing times)
-5. [Final Modeling](../code/5. Final Modeling.ipynb) (creating a final model for predictions)
+1. [Cleaning & EDA](code/1. Cleaning & EDA.ipynb)
+2. [Word Modeling](code/2. Word Modeling.ipynb) (using Natural Language Processing to figure out the effect of each word)
+3. [Attribute Modeling](code/3. Attribute Modeling.ipynb) (examining length, topic, sentiment, and the number of function keys such as shift and backspace)
+4. [Character Modeling](code/4. Attribute Modeling.ipynb) (finding the effect of each character in the dataset on typing times)
+5. [Final Modeling](code/5. Final Modeling.ipynb) (creating a final model for predictions)
 
 The data folder contains the three original datasets as .txt files (GAY-SENTENCES, GUN-SENTENCES, and REVIEW-SENTENCES). In addition, it also includes the results of code notebooks 1-4 above (respectively, they are data_cleaned, data_with_words, data_with_sentiment, and data_with_letters).
 
