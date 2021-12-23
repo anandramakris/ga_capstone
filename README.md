@@ -14,7 +14,7 @@ In addition, I have used other resources to help with the coding, which are link
 
 ### Repository Layout
 
-The **code** folder is broken up into five parts:
+The **code** folder is broken up into five parts, each a notebook of Python code:
 
 1. Cleaning & EDA
 2. Word Modeling (using Natural Language Processing to figure out the effect of each word)
