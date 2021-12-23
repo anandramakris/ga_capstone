@@ -6,7 +6,9 @@ What aspects of a sentence can predict the time it takes to type it? This projec
 
 ### Data & Resources
 
-The data consists of results from [The Reverse Problem of Keystroke Dynamics](https://ieee-dataport.org/documents/dataset-reverse-problem-keystroke-dynamics-guessing-typed-text-keystroke-timings), a study by Nahuel Gonzalez of the Laboratorio de Sistemas de Información Avanzados of the University of Buenos Aires. Specifically, it consists of sentences and user typing times for the PROSODY dataset, which contains three main topics: gay rights, gun rights, and restaurant reviews.
+The data consists of results from [The Reverse Problem of Keystroke Dynamics](https://ieee-dataport.org/documents/dataset-reverse-problem-keystroke-dynamics-guessing-typed-text-keystroke-timings), a study by Nahuel Gonzalez of the Laboratorio de Sistemas de Información Avanzados of the University of Buenos Aires.
+
+Specifically, it consists of sentences and user typing times for the PROSODY dataset, which came from a different study, [Keystroke Patterns as Prosody in Digital Writings](https://aclanthology.org/D14-1155.pdf) by Banerjee, Feng, Kang, and Choi. It contains sentences relating to three main topics: gay rights, gun rights, and restaurant reviews.
 
 In addition, I have used other resources to help with the coding, which are linked at the relevant points in the code files.
 
