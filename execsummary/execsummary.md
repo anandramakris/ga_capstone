@@ -14,7 +14,9 @@ The data consists of sentences and typing times from [The Reverse Problem of Key
 
 ## Process
 
-In each of the four main steps, after doing a train-test split, I fit four models on the training data and . The m
+In each of the four main steps, after doing a train-test split, I fit four models on the training data and scored them on both the training and test data.
+
+The first three steps involved three different sets of predictors: words for the first step, attributes (length, topic, sentiment, and number of function keys) for the second step, and characters for the third step. In the final step, I chose the most important features from the previous models and made them the predictors for the final model.
 
 ## Results
 
