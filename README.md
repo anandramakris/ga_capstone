@@ -24,6 +24,8 @@ The **code** folder is broken up into five parts:
 
 The **data** folder contains the three original datasets as .txt files (GAY-SENTENCES, GUN-SENTENCES, and REVIEW-SENTENCES). In addition, it also includes the results of code notebooks 1-4 above (respectively, they are data_cleaned, data_with_words, data_with_sentiment, and data_with_letters).
 
+The **execsum** folder has an executive summary of the project.
+
 ### Libraries
 
 The libraries I used for my work include pandas, matplotlib, seaborn, sklearn, and ntlk, as well as three non-standard libraries: [wordcloud](https://amueller.github.io/word_cloud/) (for creating a word cloud for the sentence data), [enchant](http://pyenchant.github.io/pyenchant/) (which checks to make sure words are real), and [collections](https://docs.python.org/3.9/library/collections.html) (specifically for the Counter function which returns the frequency of each character in a string).
