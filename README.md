@@ -24,7 +24,7 @@ The **code** folder is broken up into five parts:
 
 The **data** folder contains the three original datasets as .txt files (GAY-SENTENCES, GUN-SENTENCES, and REVIEW-SENTENCES). In addition, it also includes the results of code notebooks 1-4 above (respectively, they are data_cleaned, data_with_words, data_with_sentiment, and data_with_letters).
 
-The **execsum** folder has an executive summary of the project.
+The **execsummary** folder has an executive summary of the project.
 
 ### Libraries
 
